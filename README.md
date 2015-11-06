@@ -1,2 +1,2 @@
 # refresh_timer
-##It is a python script to represh a web page at a regular interval of time
+It is a python script to reresh a web page at a regular interval of time
